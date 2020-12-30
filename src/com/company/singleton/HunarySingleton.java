@@ -1,4 +1,4 @@
-package com.company.Singleton;
+package com.company.singleton;
 
 public class HunarySingleton {
     private static HunarySingleton hunarySingleton = new HunarySingleton();

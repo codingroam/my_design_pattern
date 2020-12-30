@@ -1,4 +1,4 @@
-package com.company.Singleton;
+package com.company.singleton;
 
 public class LazySingle {
     public static LazySingle lazySingle;
