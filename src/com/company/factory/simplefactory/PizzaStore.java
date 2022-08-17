@@ -1,4 +1,4 @@
-package com.company.factory;
+package com.company.factory.simplefactory;
 
 public abstract class PizzaStore {
     public Pizza orderPizza(String type){
